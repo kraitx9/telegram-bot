@@ -19,7 +19,7 @@ from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
 BOT_TOKEN = "8221481764:AAHExTEBG2uzlAm67RJMASO6yBRDkw6aXZU"
 ADMIN_ID = "6710677130"
 
-bot = telebot.TeleBot(8221481764:AAHExTEBG2uzlAm67RJMASO6yBRDkw6aXZU)
+bot = telebot.TeleBot(BOT_TOKEN)
 logging.basicConfig(level=logging.INFO)
 
 # قاعدة البيانات
