@@ -16,10 +16,10 @@ from datetime import datetime, timedelta
 from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 # إعدادات البوت
-BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"
-ADMIN_ID = "YOUR_ADMIN_ID_HERE"
+BOT_TOKEN = "8221481764:AAHExTEBG2uzlAm67RJMASO6yBRDkw6aXZU"
+ADMIN_ID = "6710677130"
 
-bot = telebot.TeleBot(BOT_TOKEN)
+bot = telebot.TeleBot(8221481764:AAHExTEBG2uzlAm67RJMASO6yBRDkw6aXZU)
 logging.basicConfig(level=logging.INFO)
 
 # قاعدة البيانات
